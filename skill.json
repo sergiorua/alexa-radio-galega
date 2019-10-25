@@ -3,121 +3,121 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Listen to My Radio, less bla bla bla, more la la la.",
+          "summary": "Listen to Radio Galega",
           "examplePhrases": [
-            "Alexa, open My Radio",
-            "Alexa, play My Radio",
-            "Alexa, ask My Radio to play"
+            "Alexa, open Radio Galega",
+            "Alexa, play Radio Galega",
+            "Alexa, ask Radio Galega to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "My Radio",
-          "description": "Listen to My Radio, with less bla bla bla, and more la la la.\n\nMy Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch My Radio\" or \"Alexa, play my radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "name": "Radio Galega",
+          "description": "Listen to Radio Galega",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "en-GB": {
-          "summary": "Listen to My Radio, less bla bla bla, more la la la.",
+          "summary": "Listen to Radio Galega",
           "examplePhrases": [
-            "Alexa, open My Radio",
-            "Alexa, play My Radio",
-            "Alexa, ask My Radio to play"
+            "Alexa, open Radio Galega",
+            "Alexa, play Radio Galega",
+            "Alexa, ask Radio Galega to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "My Radio",
-          "description": "Listen to My Radio, with less bla bla bla, and more la la la.\n\nMy Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch My Radio\" or \"Alexa, play my radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "name": "Radio Galega",
+          "description": "Listen to Radio Galega",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "en-IN": {
-          "summary": "Listen to My Radio, less bla bla bla, more la la la.",
+          "summary": "Listen to Radio Galega",
           "examplePhrases": [
-            "Alexa, open My Radio",
-            "Alexa, play My Radio",
-            "Alexa, ask My Radio to play"
+            "Alexa, open Radio Galega",
+            "Alexa, play Radio Galega",
+            "Alexa, ask Radio Galega to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "My Radio",
-          "description": "Listen to My Radio, with less bla bla bla, and more la la la.\n\nMy Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch My Radio\" or \"Alexa, play my radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "name": "Radio Galega",
+          "description": "Listen to Radio Galega",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "en-CA": {
-          "summary": "Listen to My Radio, less bla bla bla, more la la la.",
+          "summary": "Listen to Radio Galega",
           "examplePhrases": [
-            "Alexa, open My Radio",
-            "Alexa, play My Radio",
-            "Alexa, ask My Radio to play"
+            "Alexa, open Radio Galega",
+            "Alexa, play Radio Galega",
+            "Alexa, ask Radio Galega to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "My Radio",
-          "description": "Listen to My Radio, with less bla bla bla, and more la la la.\n\nMy Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch My Radio\" or \"Alexa, play my radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "name": "Radio Galega",
+          "description": "Listen to Radio Galega",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "en-AU": {
-          "summary": "Listen to My Radio, less bla bla bla, more la la la.",
+          "summary": "Listen to Radio Galega",
           "examplePhrases": [
-            "Alexa, open My Radio",
-            "Alexa, play My Radio",
-            "Alexa, ask My Radio to play"
+            "Alexa, open Radio Galega",
+            "Alexa, play Radio Galega",
+            "Alexa, ask Radio Galega to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "My Radio",
-          "description": "Listen to My Radio, with less bla bla bla, and more la la la.\n\nMy Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch My Radio\" or \"Alexa, play my radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "name": "Radio Galega",
+          "description": "Listen to Radio Galega",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "fr-FR": {
-          "summary": "Ecoutez Ma Radio, moins de bla bla, plus de la la la.",
+          "summary": "Ecoutez Radio Galega",
           "examplePhrases": [
-            "Alexa, ouvre Ma Radio",
-            "Alexa, lance Ma Radio",
-            "Alexa, demande à Ma Radio de démarrer"
+            "Alexa, ouvre Radio Galega",
+            "Alexa, lance Radio Galega",
+            "Alexa, demande à Radio Galega de démarrer"
           ],
           "keywords": [
             "musique",
             "direct",
             "radio"
           ],
-          "name": "Ma Radio",
-          "description": "Ecoutez Ma Radio, moins de bla bla, plus de la la la\n\nMa Radio vous donne le meilleur son, 24h sur 24h\n\nPour démarrer, dites juste : \"Alexa, lance Ma Radio\" ou \"Alexa, démarre ma radio\"\".\n\nA n'importe quel moment, vous pouvez dire \"Alexa, stop\" pour arrêter.",
+          "name": "Radio Galega",
+          "description": "Ecoutez Radio Galega",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "fr-CA": {
-          "summary": "Ecoutez Ma Radio, moins de bla bla, plus de la la la.",
+          "summary": "Ecoutez Radio Galega",
           "examplePhrases": [
-            "Alexa, ouvre Ma Radio",
-            "Alexa, lance Ma Radio",
-            "Alexa, demande à Ma Radio de démarrer"
+            "Alexa, ouvre Radio Galega",
+            "Alexa, lance Radio Galega",
+            "Alexa, demande à Radio Galega de démarrer"
           ],
           "keywords": [
             "musique",
             "direct",
             "radio"
           ],
-          "name": "Ma Radio",
-          "description": "Ecoutez Ma Radio, moins de bla bla, plus de la la la\n\nMa Radio vous donne le meilleur son, 24h sur 24h\n\nPour démarrer, dites juste : \"Alexa, lance Ma Radio\" ou \"Alexa, démarre ma radio\"\".\n\nA n'importe quel moment, vous pouvez dire \"Alexa, stop\" pour arrêter.",
+          "name": "Radio Galega",
+          "description": "Ecoutez Radio Galega",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
@@ -179,7 +179,7 @@
     "apis": {
       "custom": {
         "endpoint": {
-          "sourceDir": "lambda"
+          "sourceDir": "lambda/py"
         },
         "interfaces": [
           {
