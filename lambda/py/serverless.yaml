@@ -1,0 +1,25 @@
+service: radioGalegaAlexa
+
+provider:
+  name: aws
+  runtime: python3.7
+  region: eu-west-1
+
+plugins:
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: non-linux
+
+package:
+  exclude:
+    - node_modules
+  
+functions:
+  radioGalegaSkill:
+    handler: lambda_function.lambda_handler
+    events:
+      - alexaSkill:
+          appId: amzn1.ask.skill.7ff19e3d-a21e-4b3b-bfe3-11b8f9bc273b
+          enabled: true

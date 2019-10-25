@@ -23,7 +23,7 @@ en = {
         "large_image_url": 'https://alexademo.ninja/skills/logo-512.png',
         "small_image_url": 'https://alexademo.ninja/skills/logo-108.png'
     },
-    "url": 'http://crtvg-radiogalega.stream.flumotion.com/radiogalega/live.mp3.m3u'
+    "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
 }
 
 fr = {
@@ -33,7 +33,7 @@ fr = {
         "large_image_url": 'https://alexademo.ninja/skills/logo-512.png',
         "small_image_url": 'https://alexademo.ninja/skills/logo-108.png'
     },
-    "url": 'http://crtvg-radiogalega.stream.flumotion.com/radiogalega/live.mp3.m3u'
+    "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
 }
 
 it = {
@@ -43,7 +43,8 @@ it = {
         "large_image_url": 'https://alexademo.ninja/skills/logo-512.png',
         "small_image_url": 'https://alexademo.ninja/skills/logo-108.png'
     },
-    "url": 'http://crtvg-radiogalega.stream.flumotion.com/radiogalega/live.mp3.m3u'
+    "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
+}
 
 es = {
     "card": {
@@ -52,5 +53,5 @@ es = {
         "large_image_url": 'https://alexademo.ninja/skills/logo-512.png',
         "small_image_url": 'https://alexademo.ninja/skills/logo-108.png'
     },
-    "url": 'http://crtvg-radiogalega.stream.flumotion.com/radiogalega/live.mp3.m3u'
+    "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
 }

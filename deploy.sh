@@ -1,4 +1,5 @@
 #!/bin/bash
 
-[ -x ./node_modules/serverless/bin/serverless ] || ./install.sh
-docker run --rm -e SLS_DEBUG='*' -v $HOME/.aws:/root/.aws -v $(pwd):/data -ti node /bin/sh -c 'cd /data; npm run deploy'
+dockerImage="nikolaik/python-nodejs:python3.7-nodejs10"
+[ -x ./lambda/py/node_modules/serverless/bin/serverless ] || ./install.sh
+docker run --rm -e SLS_DEBUG='*' -v $HOME/.aws:/root/.aws -v $(pwd):/data -ti $dockerImage /bin/sh -c 'cd /data/lambda/py; npm run deploy'
