@@ -7,15 +7,35 @@ provider:
 
 plugins:
   - serverless-python-requirements
+  - serverless-s3-deploy
 
 custom:
+  s3AssetsBucket: alexa-radio-galega-assets
   pythonRequirements:
     dockerizePip: non-linux
+  assets:
+    targets:
+      - bucket: ${self:custom.s3AssetsBucket}
+        files:
+          - source: ../..
+            globs: "*.jpg"
+      - bucket: ${self:custom.s3AssetsBucket}
+        files:
+          - source: ../..
+            globs: "*.m3u"
+
+resources:
+  Resources:
+    S3RadioGalega:
+      Type: AWS::S3::Bucket
+      Properties:
+        BucketName: ${self:custom.s3AssetsBucket}
+        AccessControl: PublicRead
 
 package:
   exclude:
     - node_modules
-  
+
 functions:
   radioGalegaSkill:
     handler: lambda_function.lambda_handler

@@ -20,8 +20,8 @@ en = {
     "card": {
         "title": 'Radio Galega',
         "text": 'The best radio in the best language',
-        "large_image_url": 'https://alexademo.ninja/skills/logo-512.png',
-        "small_image_url": 'https://alexademo.ninja/skills/logo-108.png'
+        "large_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Large.jpg',
+        "small_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Small.jpg'
     },
     "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
 }
@@ -29,9 +29,9 @@ en = {
 fr = {
     "card": {
         "title": 'Radio Galega',
-        "text": 'Moins de bla bla bla, plus de la la la',
-        "large_image_url": 'https://alexademo.ninja/skills/logo-512.png',
-        "small_image_url": 'https://alexademo.ninja/skills/logo-108.png'
+        "text": 'La meilleure radio dans la meilleure langue',
+        "large_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Large.jpg',
+        "small_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Small.jpg'
     },
     "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
 }
@@ -39,9 +39,9 @@ fr = {
 it = {
     "card": {
         "title": 'Radio Galega',
-        "text": 'Meno parlare, più musica',
-        "large_image_url": 'https://alexademo.ninja/skills/logo-512.png',
-        "small_image_url": 'https://alexademo.ninja/skills/logo-108.png'
+        "text": 'La migliore radio nella migliore lingua',
+        "large_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Large.jpg',
+        "small_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Small.jpg'
     },
     "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
 }
@@ -49,9 +49,9 @@ it = {
 es = {
     "card": {
         "title": 'Radio Galega',
-        "text": 'A millor radio no millor idioma',
-        "large_image_url": 'https://alexademo.ninja/skills/logo-512.png',
-        "small_image_url": 'https://alexademo.ninja/skills/logo-108.png'
+        "text": 'A millor radio na millor lingua',
+        "large_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Large.jpg',
+        "small_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Small.jpg'
     },
     "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
 }
