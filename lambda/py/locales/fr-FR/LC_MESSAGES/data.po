@@ -19,8 +19,8 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: alexa/data.py:6
-msgid "Welcome to {}"
-msgstr "Bienvenue sur {}"
+msgid "Welcome to {0}"
+msgstr "Bienvenue sur <lang xml:lang="es-ES">{0}</lang>"
 
 #: alexa/data.py:7
 msgid ""

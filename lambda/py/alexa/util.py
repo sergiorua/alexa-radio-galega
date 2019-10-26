@@ -28,6 +28,10 @@ def audio_data(request):
         return data.it
     elif locale.startswith("es"):
         return data.es
+    elif locale.startswith("pt"):
+        return data.pt
+    elif locale.startswith("jp"):
+        return data.jp
     else:
         return {}
 

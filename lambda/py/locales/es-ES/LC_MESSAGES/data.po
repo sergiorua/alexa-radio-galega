@@ -20,7 +20,7 @@ msgstr ""
 
 #: alexa/data.py:6
 msgid "Welcome to {0}"
-msgstr "Benvido á {0}"
+msgstr "Benvido á <lang xml:lang="es-ES">{0}</lang>"
 
 #: alexa/data.py:7
 msgid ""

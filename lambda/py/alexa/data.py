@@ -3,7 +3,7 @@ import gettext
 
 _ = gettext.gettext
 
-WELCOME_MSG = _("Welcome to {}")
+WELCOME_MSG = _("Welcome to <lang xml:lang=\"es-ES\">{}</lang>")
 HELP_MSG = _("Welcome to {}. You can play, stop, resume listening.  How can I help you ?")
 UNHANDLED_MSG = _("Sorry, I could not understand what you've just said.")
 CANNOT_SKIP_MSG = _("This is radio, you have to wait for previous or next track to play.")

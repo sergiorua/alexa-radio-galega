@@ -417,12 +417,12 @@ class LocalizationInterceptor(AbstractRequestInterceptor):
         locale = getattr(handler_input.request_envelope.request, 'locale', None)
         logger.info("Locale is {}".format(locale))
         if locale:
-            if locale.startswith("fr"):
-                locale_file_name = "fr-FR"
-            elif locale.startswith("it"):
-                locale_file_name = "it-IT"
-            elif locale.startswith("es"):
+            if locale.startswith("es"):
                 locale_file_name = "es-ES"
+            elif locale.startswith("ja"):
+                locale_file_name = "ja-JP"
+            elif locale.startswith("pt"):
+                locale_file_name = "pt-BR"
             else:
                 locale_file_name = locale
 
