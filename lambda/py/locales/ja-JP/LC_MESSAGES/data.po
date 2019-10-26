@@ -20,39 +20,39 @@ msgstr ""
 
 #: alexa/data.py:6
 msgid "Welcome to {0}"
-msgstr ""
+msgstr "いらっしゃいませ"
 
 #: alexa/data.py:7
 msgid ""
 "Welcome to {0}. You can play, stop, resume listening.  How can I help you"
 " ?"
-msgstr ""
+msgstr "再生、停止、リスニングを再開できます。 どんな御用でしょうか"
 
 #: alexa/data.py:8
 msgid "Sorry, I could not understand what you've just said."
-msgstr ""
+msgstr "すみません、わかりません"
 
 #: alexa/data.py:9
 msgid "This is radio, you have to wait for next track to play."
-msgstr ""
+msgstr "これはラジオです。 次のトラックをお待ちください。"
 
 #: alexa/data.py:10
 msgid "Resuming {0}"
-msgstr ""
+msgstr "{0} 聞いている"
 
 #: alexa/data.py:11
 msgid ""
 "This is radio, you can not do that.  You can ask me to stop or pause to "
 "stop listening."
-msgstr ""
+msgstr "ごめんなさい、できません。"
 
 #: alexa/data.py:12
 msgid "Goodbye."
-msgstr ""
+msgstr "バイバイ"
 
 #: alexa/data.py:13
 msgid "Sorry, this skill is not supported on this device"
-msgstr ""
+msgstr "ごめんなさい、できません。"
 
 #: alexa/data.py:15
 msgid "test english"
