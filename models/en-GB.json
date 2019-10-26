@@ -1,27 +1,27 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "my radio",
+            "invocationName": "radio galega",
             "intents": [
                 {
-                    "name": "PlayAudio",
-                    "slots": [],
-                    "samples": [
-                        "play",
-                        "start",
-                        "play my radio",
-                        "play my radio please",
-                        "start my radio",
-                        "start my radio please",
-                        "start the audio",
-                        "start the audio please",
-                        "play the audio",
-                        "play the audio please",
-                        "start the music",
-                        "start the music please",
-                        "play the music",
-                        "play the music please"
-                    ]
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
                 },
                 {
                     "name": "AMAZON.PauseIntent",
@@ -32,34 +32,14 @@
                     "samples": []
                 },
                 {
-                    "name": "AMAZON.HelpIntent",
+                    "name": "PlayRadioIntent",
+                    "slots": [],
                     "samples": [
-                        "help me please",
-                        "help please",
-                        "what should i do",
-                        "what's next",
-                        "how can I listen to my radio",
-                        "tell me how to play",
-                        "tell me how to stop",
-                        "tell me how to resume",
-                        "how to stop"
+                        "play radio",
+                        "open radio",
+                        "play radio galega",
+                        "play radio galega please"
                     ]
-                },
-                {
-                    "name": "AMAZON.StopIntent",
-                    "samples": []
-                },
-                {
-                    "name": "AMAZON.CancelIntent",
-                    "samples": []
-                },
-                {
-                    "name": "AMAZON.StartOverIntent",
-                    "samples": []
-                },
-                {
-                    "name": "AMAZON.FallbackIntent",
-                    "samples": []
                 }
             ],
             "types": []

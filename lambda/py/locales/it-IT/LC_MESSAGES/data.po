@@ -1,15 +1,15 @@
 # Italian (Italy) translations for PROJECT.
 # Copyright (C) 2018 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# FIRST AUTHOR <sergio@rua.me.uk>, 2018.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"Project-Id-Version: Radio Galega\n"
+"Report-Msgid-Bugs-To: sergio@rua.me.uk\n"
 "POT-Creation-Date: 2018-09-15 23:34-0700\n"
 "PO-Revision-Date: 2018-09-15 23:37-0700\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Sergio Rua <sergio@rua.me.uk>\n"
 "Language: it_IT\n"
 "Language-Team: it_IT <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"

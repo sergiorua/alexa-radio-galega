@@ -55,3 +55,23 @@ es = {
     },
     "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
 }
+
+pt = {
+    "card": {
+        "title": 'Radio Galega',
+        "text": 'A millor radio na millor lingua',
+        "large_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Large.jpg',
+        "small_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Small.jpg'
+    },
+    "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
+}
+
+jp = {
+    "card": {
+        "title": 'Radio Galega',
+        "text": 'ガリシアのラジオ',
+        "large_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Large.jpg',
+        "small_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Small.jpg'
+    },
+    "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
+}

@@ -35,10 +35,11 @@
                     "name": "PlayRadioIntent",
                     "slots": [],
                     "samples": [
-                        "play radio",
-                        "open radio",
-                        "play radio galega",
-                        "play radio galega please"
+                        "ラジオを流します",
+                        "ラジオを流します",
+                        "ガリシアのラジオを再生",
+                        "ガリシアのラジオを流します",
+                        "ガリシアのラジオ"
                     ]
                 }
             ],
