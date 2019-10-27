@@ -38,7 +38,7 @@ msgstr ""
 
 #: alexa/data.py:10
 msgid "Resuming {0}"
-msgstr ""
+msgstr "Resume  <lang xml:lang="es-ES">{0}</lang>"
 
 #: alexa/data.py:11
 msgid ""

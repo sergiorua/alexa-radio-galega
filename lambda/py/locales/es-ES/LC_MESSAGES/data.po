@@ -20,13 +20,13 @@ msgstr ""
 
 #: alexa/data.py:6
 msgid "Welcome to {0}"
-msgstr "Benvido á <lang xml:lang="es-ES">{0}</lang>"
+msgstr "Benvido á {0}"
 
 #: alexa/data.py:7
 msgid ""
 "Welcome to {0}. You can play, stop, resume listening.  How can I help you"
 " ?"
-msgstr "Benvido á {0}. Pode tocar, parar ou continuar a escoita. Que quere facer?"
+msgstr "Benvido a {0}. Pode tocar, parar ou continuar a escoita. Que quere facer?"
 
 #: alexa/data.py:8
 msgid "Sorry, I could not understand what you've just said."
