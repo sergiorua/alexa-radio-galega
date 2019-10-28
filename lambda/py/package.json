@@ -1,6 +1,6 @@
 {
   "name": "radio_galega_alexa",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "devDependencies": {
     "aws-sdk": "^2.379.0",
@@ -10,6 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "./node_modules/serverless/bin/serverless deploy",
+    "deploy-dev": "./node_modules/serverless/bin/serverless deploy",
     "deploy-prod": "./node_modules/serverless/bin/serverless deploy --stage prod",
     "destroy": "./node_modules/serverless/bin/serverless remove"
   },
