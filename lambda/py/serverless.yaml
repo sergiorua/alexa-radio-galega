@@ -23,11 +23,11 @@ custom:
     targets:
       - bucket: ${self:custom.s3AssetsBucket}
         files:
-          - source: ../..
+          - source: ../../assets
             globs: "*.jpg"
       - bucket: ${self:custom.s3AssetsBucket}
         files:
-          - source: ../..
+          - source: ../../assets
             globs: "*.m3u"
 
 resources:
