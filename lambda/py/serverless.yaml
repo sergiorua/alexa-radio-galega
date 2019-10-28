@@ -7,7 +7,6 @@ provider:
   stage: dev
   environment:
     STATE: ${self:custom.stage}
-    VERSION: "develop"
     ASSETS_URL: https://${self:custom.s3AssetsBucket}.s3-${self:provider.region}.amazonaws.com
     STREAM_URL: https://${self:custom.s3AssetsBucket}.s3-${self:provider.region}.amazonaws.com/live.mp3.m3u
 
