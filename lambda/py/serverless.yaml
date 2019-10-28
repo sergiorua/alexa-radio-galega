@@ -4,13 +4,20 @@ provider:
   name: aws
   runtime: python3.7
   region: eu-west-1
+  stage: dev
+  environment:
+    STATE: ${self:custom.stage}
+    VERSION: "develop"
+    ASSETS_URL: https://${self:custom.s3AssetsBucket}.s3-${self:provider.region}.amazonaws.com
+    STREAM_URL: https://${self:custom.s3AssetsBucket}.s3-${self:provider.region}.amazonaws.com/live.mp3.m3u
 
 plugins:
   - serverless-python-requirements
   - serverless-s3-deploy
 
 custom:
-  s3AssetsBucket: alexa-radio-galega-assets
+  stage: ${opt:stage, self:provider.stage}
+  s3AssetsBucket: alexa-radio-galega-assets-${self:custom.stage}
   pythonRequirements:
     dockerizePip: non-linux
   assets:

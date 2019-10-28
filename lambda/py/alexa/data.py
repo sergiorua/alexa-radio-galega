@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from gettext import gettext as _
+import os
 
 WELCOME_MSG = _("Welcome to {}")
 HELP_MSG = _("Welcome to {}. You can play, stop, resume listening.  How can I help you ?")
@@ -13,63 +14,65 @@ DEVICE_NOT_SUPPORTED = _("Sorry, this skill is not supported on this device")
 TEST = _("test english")
 TEST_PARAMS = _("test with parameters {} and {}")
 
+ASSETS_URL = os.environ.get('ASSETS_URL', 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com')
+STREAM_URL = os.environ.get('STREAM_URL', 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3')
 
 en = {
     "card": {
         "title": 'Radio Galega',
         "text": 'The best radio in the best language',
-        "large_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Large.jpg',
-        "small_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Small.jpg'
+        "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
+        "small_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Small.jpg')
     },
-    "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
+    "url": STREAM_URL
 }
 
 fr = {
     "card": {
         "title": 'Radio Galega',
         "text": 'La meilleure radio dans la meilleure langue',
-        "large_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Large.jpg',
-        "small_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Small.jpg'
+        "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
+        "small_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Small.jpg')
     },
-    "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
+    "url": STREAM_URL
 }
 
 it = {
     "card": {
         "title": 'Radio Galega',
         "text": 'La migliore radio nella migliore lingua',
-        "large_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Large.jpg',
-        "small_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Small.jpg'
+        "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
+        "small_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Small.jpg')
     },
-    "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
+    "url": STREAM_URL
 }
 
 es = {
     "card": {
         "title": 'Radio Galega',
         "text": 'A millor radio na millor lingua',
-        "large_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Large.jpg',
-        "small_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Small.jpg'
+        "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
+        "small_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Small.jpg')
     },
-    "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
+    "url": STREAM_URL
 }
 
 pt = {
     "card": {
         "title": 'Radio Galega',
         "text": 'A millor radio na millor lingua',
-        "large_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Large.jpg',
-        "small_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Small.jpg'
+        "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
+        "small_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Small.jpg')
     },
-    "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
+    "url": STREAM_URL
 }
 
 jp = {
     "card": {
         "title": 'Radio Galega',
         "text": 'ガリシアのラジオ',
-        "large_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Large.jpg',
-        "small_image_url": 'https://alexa-radio-galega-assets.s3-eu-west-1.amazonaws.com/Radio_Galega_Small.jpg'
+        "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
+        "small_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Small.jpg')
     },
-    "url": 'https://wecast-b02-01.flumotion.com/radiogalega/live.mp3'
+    "url": STREAM_URL
 }
