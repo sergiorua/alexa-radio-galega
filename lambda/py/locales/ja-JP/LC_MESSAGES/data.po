@@ -1,15 +1,15 @@
-# Japanese (Japan) translations for Radio.
-# Copyright (C) 2018 ORGANIZATION
-# This file is distributed under the same license as the Radio project.
-# FIRST AUTHOR <sergio@rua.me.uk>, 2018.
+# Japanese (Japan) translations for PROJECT.
+# Copyright (C) 2019 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Radio Galega\n"
-"Report-Msgid-Bugs-To: sergio@rua.me.uk\n"
-"POT-Creation-Date: 2018-09-15 23:34-0700\n"
-"PO-Revision-Date: 2019-10-25 22:15+0100\n"
-"Last-Translator: Sergio Rua <sergio@rua.me.uk>\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-10-28 17:40+0000\n"
+"PO-Revision-Date: 2019-10-28 17:40+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ja_JP\n"
 "Language-Team: ja_JP <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0\n"
@@ -18,47 +18,45 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
 
-#: alexa/data.py:6
-msgid "Welcome to {0}"
+#: alexa/data.py:4
+msgid "Welcome to {}"
 msgstr "<lang xml:lang="es-ES">{0}</lang> いらっしゃいませ"
 
-#: alexa/data.py:7
-msgid ""
-"Welcome to {0}. You can play, stop, resume listening.  How can I help you"
-" ?"
+#: alexa/data.py:5
+msgid "Welcome to {}. You can play, stop, resume listening.  How can I help you ?"
 msgstr "再生、停止、リスニングを再開できます。 どんな御用でしょうか"
 
-#: alexa/data.py:8
+#: alexa/data.py:6
 msgid "Sorry, I could not understand what you've just said."
 msgstr "すみません、わかりません"
 
-#: alexa/data.py:9
-msgid "This is radio, you have to wait for next track to play."
+#: alexa/data.py:7
+msgid "This is radio, you have to wait for previous or next track to play."
 msgstr "これはラジオです。 次のトラックをお待ちください。"
 
-#: alexa/data.py:10
-msgid "Resuming {0}"
+#: alexa/data.py:8
+msgid "Resuming {}"
 msgstr "{0} 聞いている"
 
-#: alexa/data.py:11
+#: alexa/data.py:9
 msgid ""
 "This is radio, you can not do that.  You can ask me to stop or pause to "
 "stop listening."
 msgstr "ごめんなさい、できません。"
 
-#: alexa/data.py:12
+#: alexa/data.py:10
 msgid "Goodbye."
 msgstr "バイバイ"
 
-#: alexa/data.py:13
+#: alexa/data.py:11
 msgid "Sorry, this skill is not supported on this device"
 msgstr "ごめんなさい、できません。"
 
-#: alexa/data.py:15
+#: alexa/data.py:13
 msgid "test english"
 msgstr ""
 
-#: alexa/data.py:16
-msgid "test with parameters {0} and {1}"
+#: alexa/data.py:14
+msgid "test with parameters {} and {}"
 msgstr ""
 

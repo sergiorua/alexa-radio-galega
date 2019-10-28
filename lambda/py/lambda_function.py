@@ -2,6 +2,7 @@
 
 import logging
 import gettext
+import os
 from ask_sdk.standard import StandardSkillBuilder
 from ask_sdk_core.dispatch_components import (
     AbstractRequestHandler, AbstractExceptionHandler,
@@ -427,9 +428,11 @@ class LocalizationInterceptor(AbstractRequestInterceptor):
                 locale_file_name = locale
 
             logger.info("Loading locale file: {}".format(locale_file_name))
+
             i18n = gettext.translation(
                 'data', localedir='locales', languages=[locale_file_name],
                 fallback=True)
+
             handler_input.attributes_manager.request_attributes[
                 "_"] = i18n.gettext
         else:
