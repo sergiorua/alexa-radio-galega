@@ -32,8 +32,11 @@ def audio_data(request):
         return data.pt
     elif locale.startswith("jp"):
         return data.jp
+    elif locale.startswith("de"):
+        return data.de
     else:
-        return {}
+        logger.info("Locale {} not found, falling back to EN".format(locale))
+        return data.en
 
 
 def play(url, offset, text, card_data, response_builder):
