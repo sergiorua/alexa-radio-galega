@@ -67,7 +67,7 @@ pt = {
     "url": STREAM_URL
 }
 
-jp = {
+ja = {
     "card": {
         "title": 'Radio Galega',
         "text": 'ガリシアのラジオ',

@@ -1,7 +1,7 @@
 # Japanese (Japan) translations for PROJECT.
 # Copyright (C) 2019 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <sergio@rua.me.uk>, 2019.
 #
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-28 17:40+0000\n"
 "PO-Revision-Date: 2019-10-28 17:40+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Sergio Rua <sergio@rua.me.uk>\n"
 "Language: ja_JP\n"
 "Language-Team: ja_JP <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0\n"
@@ -32,7 +32,7 @@ msgstr "すみません、わかりません"
 
 #: alexa/data.py:7
 msgid "This is radio, you have to wait for previous or next track to play."
-msgstr "これはラジオです。 次のトラックをお待ちください。"
+msgstr "ラジオですから。 次のトラックをお待ちください。"
 
 #: alexa/data.py:8
 msgid "Resuming {}"
