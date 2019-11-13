@@ -20,19 +20,19 @@ msgstr ""
 
 #: alexa/data.py:4
 msgid "Welcome to {}"
-msgstr "Benvido á {0}"
+msgstr "Bienvenido a la {0}"
 
 #: alexa/data.py:5
 msgid "Welcome to {}. You can play, stop, resume listening.  How can I help you ?"
-msgstr "Benvido á {0}. Pode tocar, parar ou continuar a escoita. Que quere facer?"
+msgstr "Bienvidno a la {}. Usted puede tocar, parar o resumir. ¿Qué desea hacer?"
 
 #: alexa/data.py:6
 msgid "Sorry, I could not understand what you've just said."
-msgstr "Sintou mais non entendo o que quere facer"
+msgstr "Perdón, no entiendo."
 
 #: alexa/data.py:7
 msgid "This is radio, you have to wait for previous or next track to play."
-msgstr "Esta é unha radio. Terá que agardar a que remate."
+msgstr "Esta es una radio en directo."
 
 #: alexa/data.py:8
 msgid "Resuming {}"
@@ -42,16 +42,16 @@ msgstr "Continuando {}"
 msgid ""
 "This is radio, you can not do that.  You can ask me to stop or pause to "
 "stop listening."
-msgstr "Como esta esta é unha radio non pode facer iso. Pode pedirme "
+msgstr "Como esta es una radio no puede hacer esto. Puede pedirme "
 "que pare."
 
 #: alexa/data.py:10
 msgid "Goodbye."
-msgstr "Deica logo."
+msgstr "Adios."
 
 #: alexa/data.py:11
 msgid "Sorry, this skill is not supported on this device"
-msgstr "Sintou pero non funciona neste dispositivo"
+msgstr "Lo siento, este dispositivo no es válido."
 
 #: alexa/data.py:13
 msgid "test english"
