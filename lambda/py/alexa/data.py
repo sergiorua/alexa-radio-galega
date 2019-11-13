@@ -67,10 +67,20 @@ pt = {
     "url": STREAM_URL
 }
 
-jp = {
+ja = {
     "card": {
         "title": 'Radio Galega',
         "text": 'ガリシアのラジオ',
+        "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
+        "small_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Small.jpg')
+    },
+    "url": STREAM_URL
+}
+
+de = {
+    "card": {
+        "title": 'Radio Galega',
+        "text": 'Das beste Radio in der besten Sprache',
         "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
         "small_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Small.jpg')
     },

@@ -1,4 +1,4 @@
-# Japanese (Japan) translations for PROJECT.
+# German (Germany) translations for PROJECT.
 # Copyright (C) 2019 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <sergio@rua.me.uk>, 2019.
@@ -8,11 +8,11 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-10-28 17:40+0000\n"
-"PO-Revision-Date: 2019-10-28 17:40+0000\n"
+"PO-Revision-Date: 2019-11-08 18:56+0000\n"
 "Last-Translator: Sergio Rua <sergio@rua.me.uk>\n"
-"Language: ja_JP\n"
-"Language-Team: ja_JP <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Language: de_DE\n"
+"Language-Team: de_DE <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,37 +20,37 @@ msgstr ""
 
 #: alexa/data.py:4
 msgid "Welcome to {}"
-msgstr "<lang xml:lang="es-ES">{0}</lang> いらっしゃいませ"
+msgstr "Willkommen zu <lang xml:lang="es-ES">{0}</lang>"
 
 #: alexa/data.py:5
 msgid "Welcome to {}. You can play, stop, resume listening.  How can I help you ?"
-msgstr "再生、停止、リスニングを再開できます。 どんな御用でしょうか"
+msgstr ""
 
 #: alexa/data.py:6
 msgid "Sorry, I could not understand what you've just said."
-msgstr "すみません、わかりません"
+msgstr ""
 
 #: alexa/data.py:7
 msgid "This is radio, you have to wait for previous or next track to play."
-msgstr "ラジオですから。 次のトラックをお待ちください。"
+msgstr ""
 
 #: alexa/data.py:8
 msgid "Resuming {}"
-msgstr "{0} 聞いている"
+msgstr ""
 
 #: alexa/data.py:9
 msgid ""
 "This is radio, you can not do that.  You can ask me to stop or pause to "
 "stop listening."
-msgstr "ごめんなさい、できません。"
+msgstr ""
 
 #: alexa/data.py:10
 msgid "Goodbye."
-msgstr "バイバイ"
+msgstr "Auf Wiedersehen"
 
 #: alexa/data.py:11
 msgid "Sorry, this skill is not supported on this device"
-msgstr "ごめんなさい、できません。"
+msgstr ""
 
 #: alexa/data.py:13
 msgid "test english"
