@@ -68,7 +68,8 @@ class LaunchRequestOrPlayAudioHandler(AbstractRequestHandler):
     def can_handle(self, handler_input):
         # type: (HandlerInput) -> bool
         return (is_request_type("LaunchRequest")(handler_input) or
-                is_intent_name("PlayAudio")(handler_input))
+                is_intent_name("PlayAudio")(handler_input) or
+                is_intent_name("PlayRadioIntent")(handler_input))
 
     def handle(self, handler_input):
         # type: (HandlerInput) -> Response

@@ -5,6 +5,7 @@
             "intents": [
                 {
                     "name": "AMAZON.FallbackIntent",
+                    "slots": [],
                     "samples": []
                 },
                 {
@@ -35,10 +36,15 @@
                     "name": "PlayRadioIntent",
                     "slots": [],
                     "samples": [
-                        "play radio",
-                        "open radio",
-                        "play radio galega",
-                        "play radio galega please"
+                        "abrir a radio galega",
+                        "inicie radio galega",
+                        "abre radio galega",
+                        "pon a rádio",
+                        "pon rádio galega",
+                        "toca rádio galega",
+                        "tocar rádio galega",
+                        "tocar rádio galega por favor",
+                        "pon rádio galega por favor"
                     ]
                 }
             ],
