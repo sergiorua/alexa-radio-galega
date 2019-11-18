@@ -3,121 +3,121 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Listen to Radio Galega",
+          "summary": "Listen to Galega Radio",
           "examplePhrases": [
-            "Alexa, open Radio Galega",
-            "Alexa, play Radio Galega",
-            "Alexa, ask Radio Galega to play"
+            "Alexa, open Galega Radio",
+            "Alexa, play Galega Radio",
+            "Alexa, ask Galega Radio to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "Radio Galega",
-          "description": "Listen to Radio Galega",
+          "name": "Galega Radio",
+          "description": "Listen to Galega Radio",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "en-GB": {
-          "summary": "Listen to Radio Galega",
+          "summary": "Listen to Galega Radio",
           "examplePhrases": [
-            "Alexa, open Radio Galega",
-            "Alexa, play Radio Galega",
-            "Alexa, ask Radio Galega to play"
+            "Alexa, open Galega Radio",
+            "Alexa, play Galega Radio",
+            "Alexa, ask Galega Radio to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "Radio Galega",
-          "description": "Listen to Radio Galega",
+          "name": "Galega Radio",
+          "description": "Listen to Galega Radio",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "en-IN": {
-          "summary": "Listen to Radio Galega",
+          "summary": "Listen to Galega Radio",
           "examplePhrases": [
-            "Alexa, open Radio Galega",
-            "Alexa, play Radio Galega",
-            "Alexa, ask Radio Galega to play"
+            "Alexa, open Galega Radio",
+            "Alexa, play Galega Radio",
+            "Alexa, ask Galega Radio to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "Radio Galega",
-          "description": "Listen to Radio Galega",
+          "name": "Galega Radio",
+          "description": "Listen to Galega Radio",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "en-CA": {
-          "summary": "Listen to Radio Galega",
+          "summary": "Listen to Galega Radio",
           "examplePhrases": [
-            "Alexa, open Radio Galega",
-            "Alexa, play Radio Galega",
-            "Alexa, ask Radio Galega to play"
+            "Alexa, open Galega Radio",
+            "Alexa, play Galega Radio",
+            "Alexa, ask Galega Radio to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "Radio Galega",
-          "description": "Listen to Radio Galega",
+          "name": "Galega Radio",
+          "description": "Listen to Galega Radio",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "en-AU": {
-          "summary": "Listen to Radio Galega",
+          "summary": "Listen to Galega Radio",
           "examplePhrases": [
-            "Alexa, open Radio Galega",
-            "Alexa, play Radio Galega",
-            "Alexa, ask Radio Galega to play"
+            "Alexa, open Galega Radio",
+            "Alexa, play Galega Radio",
+            "Alexa, ask Galega Radio to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "Radio Galega",
-          "description": "Listen to Radio Galega",
+          "name": "Galega Radio",
+          "description": "Listen to Galega Radio",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "fr-FR": {
-          "summary": "Ecoutez Radio Galega",
+          "summary": "Ecoutez Galega Radio",
           "examplePhrases": [
-            "Alexa, ouvre Radio Galega",
-            "Alexa, lance Radio Galega",
-            "Alexa, demande à Radio Galega de démarrer"
+            "Alexa, ouvre Galega Radio",
+            "Alexa, lance Galega Radio",
+            "Alexa, demande à Galega Radio de démarrer"
           ],
           "keywords": [
             "musique",
             "direct",
             "radio"
           ],
-          "name": "Radio Galega",
-          "description": "Ecoutez Radio Galega",
+          "name": "Galega Radio",
+          "description": "Ecoutez Galega Radio",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "fr-CA": {
-          "summary": "Ecoutez Radio Galega",
+          "summary": "Ecoutez Galega Radio",
           "examplePhrases": [
-            "Alexa, ouvre Radio Galega",
-            "Alexa, lance Radio Galega",
-            "Alexa, demande à Radio Galega de démarrer"
+            "Alexa, ouvre Galega Radio",
+            "Alexa, lance Galega Radio",
+            "Alexa, demande à Galega Radio de démarrer"
           ],
           "keywords": [
             "musique",
             "direct",
             "radio"
           ],
-          "name": "Radio Galega",
-          "description": "Ecoutez Radio Galega",
+          "name": "Galega Radio",
+          "description": "Ecoutez Galega Radio",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },

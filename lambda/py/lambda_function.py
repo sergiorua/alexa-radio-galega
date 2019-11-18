@@ -82,7 +82,7 @@ class LaunchRequestOrPlayAudioHandler(AbstractRequestHandler):
         return util.play(url=util.audio_data(request)["url"],
                          offset=0,
                          text=_(data.WELCOME_MSG).format(
-                             util.audio_data(request)["card"]["title"]),
+                             util.audio_data(request)["card"]["name"]),
                          card_data=util.audio_data(request)["card"],
                          response_builder=handler_input.response_builder)
 
