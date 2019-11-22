@@ -19,7 +19,7 @@ STREAM_URL = os.environ.get('STREAM_URL', 'https://wecast-b02-01.flumotion.com/r
 
 en = {
     "card": {
-        "title": 'Galega Radio',
+        "title": 'Radio Galega',
         "name": "Radio Galega",
         "text": 'The best radio in the best language',
         "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
@@ -30,7 +30,7 @@ en = {
 
 fr = {
     "card": {
-        "title": 'Galega Radio',
+        "title": 'Radio Galega',
         "name": "Radio Galega",
         "text": 'La meilleure radio dans la meilleure langue',
         "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
@@ -41,7 +41,7 @@ fr = {
 
 it = {
     "card": {
-        "title": 'Galega Radio',
+        "title": 'Radio Galega',
         "name": "Radio Galega",
         "text": 'La migliore radio nella migliore lingua',
         "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
@@ -52,7 +52,7 @@ it = {
 
 es = {
     "card": {
-        "title": 'Galega Radio',
+        "title": 'Radio Galega',
         "name": "Radio Galega",
         "text": 'A millor radio na millor lingua',
         "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
@@ -63,7 +63,7 @@ es = {
 
 pt = {
     "card": {
-        "title": 'Galega Radio',
+        "title": 'Radio Galega',
         "name": "Radio Galega",
         "text": 'A millor radio na millor lingua',
         "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
@@ -74,7 +74,7 @@ pt = {
 
 ja = {
     "card": {
-        "title": 'Galega Radio',
+        "title": 'Radio Galega',
         "name": "Radio Galega",
         "text": 'ガリシアのラジオ',
         "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
@@ -85,7 +85,7 @@ ja = {
 
 de = {
     "card": {
-        "title": 'Galega Radio',
+        "title": 'Radio Galega',
         "name": "Radio Galega",
         "text": 'Das beste Radio in der besten Sprache',
         "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
