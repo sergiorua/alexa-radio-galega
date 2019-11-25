@@ -1,10 +1,11 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "radio galega",
+            "invocationName": "emisión galega",
             "intents": [
                 {
                     "name": "AMAZON.FallbackIntent",
+                    "slots": [],
                     "samples": []
                 },
                 {
@@ -35,10 +36,17 @@
                     "name": "PlayRadioIntent",
                     "slots": [],
                     "samples": [
-                        "play radio",
-                        "open radio",
-                        "play radio galega",
-                        "play radio galega please"
+                        "toca",
+                        "tocar",
+                        "play",
+                        "inicia la emisión galega",
+                        "pon la emisión galega",
+                        "pon emisión galega",
+                        "abre la emisión galega",
+                        "abre radio gallega",
+                        "abre emisión galega",
+                        "pon la emisión galega por favor",
+                        "abre la emisión galega por favor"
                     ]
                 }
             ],
