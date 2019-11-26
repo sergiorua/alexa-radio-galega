@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "ガレガ ストリーム",
+            "invocationName": "galega stream",
             "intents": [
                 {
                     "name": "AMAZON.FallbackIntent",
@@ -35,9 +35,9 @@
                     "name": "PlayRadioIntent",
                     "slots": [],
                     "samples": [
-                        "ガレガ ストリームををスタートして",
-                        "ガレガ ストリームを開いて",
-                        "ガレガ ストリームを聞きます"
+                        "galega stream ausführen",
+                        "Beginne galega stream",
+                        "Frage galega stream"
                     ]
                 }
             ],
