@@ -21,7 +21,7 @@ en = {
     "card": {
         "title": 'Radio Galega',
         "name": "Radio Galega",
-        "text": 'The best radio in the best language',
+        "text": 'Your radio in Galician language',
         "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
         "small_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Small.jpg')
     },
@@ -43,7 +43,7 @@ it = {
     "card": {
         "title": 'Radio Galega',
         "name": "Radio Galega",
-        "text": 'La migliore radio nella migliore lingua',
+        "text": 'La tua radio in galiziano',
         "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
         "small_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Small.jpg')
     },
@@ -54,7 +54,7 @@ es = {
     "card": {
         "title": 'Radio Galega',
         "name": "Radio Galega",
-        "text": 'A millor radio na millor lingua',
+        "text": 'A túa radio en galego',
         "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
         "small_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Small.jpg')
     },
@@ -65,7 +65,7 @@ pt = {
     "card": {
         "title": 'Radio Galega',
         "name": "Radio Galega",
-        "text": 'A millor radio na millor lingua',
+        "text": 'A túa radio en galego',
         "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
         "small_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Small.jpg')
     },
@@ -87,7 +87,7 @@ de = {
     "card": {
         "title": 'Radio Galega',
         "name": "Radio Galega",
-        "text": 'Das beste Radio in der besten Sprache',
+        "text": 'Dein Radio auf Galizisch',
         "large_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Large.jpg'),
         "small_image_url": os.path.join(ASSETS_URL, 'Radio_Galega_Small.jpg')
     },
