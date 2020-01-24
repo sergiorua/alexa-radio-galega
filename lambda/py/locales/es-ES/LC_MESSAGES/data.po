@@ -47,7 +47,7 @@ msgstr "Como esta es una radio no puede hacer esto. Puede pedirme "
 
 #: alexa/data.py:10
 msgid "Goodbye."
-msgstr "Adios."
+msgstr "Ata pronto."
 
 #: alexa/data.py:11
 msgid "Sorry, this skill is not supported on this device"

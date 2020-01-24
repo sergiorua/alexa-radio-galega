@@ -46,7 +46,7 @@ msgstr ""
 
 #: alexa/data.py:10
 msgid "Goodbye."
-msgstr ""
+msgstr "<lang xml:lang="es-ES">Ata pronto</lang>"
 
 #: alexa/data.py:11
 msgid "Sorry, this skill is not supported on this device"
