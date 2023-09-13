@@ -4,15 +4,15 @@
   "description": "",
   "devDependencies": {
     "aws-sdk": "^2.379.0",
-    "serverless": "^1.43.0",
-    "serverless-s3-deploy": "^0.9.0"
+    "serverless": "^3.33.0",
+    "serverless-s3-deploy": "^0.10.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "./node_modules/serverless/bin/serverless deploy",
-    "deploy-dev": "./node_modules/serverless/bin/serverless deploy",
-    "deploy-prod": "./node_modules/serverless/bin/serverless deploy --stage prod",
-    "destroy": "./node_modules/serverless/bin/serverless remove"
+    "deploy": "node ./node_modules/serverless/bin/serverless.js deploy",
+    "deploy-dev": "node ./node_modules/serverless/bin/serverless.js deploy",
+    "deploy-prod": "node ./node_modules/serverless/bin/serverless.js deploy --stage prod",
+    "destroy": "node ./node_modules/serverless/bin/serverless.js remove"
   },
   "author": "",
   "license": "MIT",
