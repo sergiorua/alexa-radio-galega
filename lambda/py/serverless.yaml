@@ -2,7 +2,7 @@ service: radioGalegaAlexa
 
 provider:
   name: aws
-  runtime: python3.7
+  runtime: python3.11
   region: eu-west-1
   stage: dev
   environment:
