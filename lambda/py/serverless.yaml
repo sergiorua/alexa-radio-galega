@@ -8,7 +8,8 @@ provider:
   environment:
     STATE: ${self:custom.stage}
     ASSETS_URL: https://${self:custom.s3AssetsBucket}.s3-${self:provider.region}.amazonaws.com
-    STREAM_URL: https://${self:custom.s3AssetsBucket}.s3-${self:provider.region}.amazonaws.com/live.mp3.m3u
+    #STREAM_URL: https://${self:custom.s3AssetsBucket}.s3-${self:provider.region}.amazonaws.com/live.mp3.m3u
+    STREAM_URL: https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
 
 plugins:
   - serverless-python-requirements

@@ -1,6 +1,7 @@
 #!/bin/bash
 
-dockerImage="nikolaik/python-nodejs:python3.11-nodejs10"
+# Built using ./docker/Dockerfile
+dockerImage="python3.11-nodejs10"
 stage=${1:-dev}
 
 [ -x ./lambda/py/node_modules/serverless/bin/serverless ] || ./install.sh
