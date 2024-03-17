@@ -8,4 +8,4 @@ stage=${1:-dev}
 
 (cd lambda/py/locales && ./compile.sh)
 
-docker run --rm -e SLS_DEBUG='*' -v $HOME/.aws:/root/.aws -v $(pwd):/data -ti $dockerImage /bin/sh -c "cd /data/lambda/py; npm run deploy-${stage} && ./node_modules/serverless/bin/serverless s3deploy --stage ${stage}"
+docker run --rm -e SLS_DEBUG='*' -v $HOME/.aws:/root/.aws -v $(pwd):/data -ti $dockerImage /bin/sh -c "cd /data/lambda/py; npm run deploy-${stage} && node ./node_modules/serverless/bin/serverless.js s3deploy --stage ${stage}"
